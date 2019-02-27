@@ -6,7 +6,7 @@ Categories:
  - Unlinkability
  - Fingerprinting
 
-* Avoid the tracking of visitors of websites. *
+*Avoid the tracking of visitors of websites.*
 
 ## Threat model ##
 

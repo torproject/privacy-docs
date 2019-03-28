@@ -20,3 +20,5 @@ When stored by third parties data subjects lose control over their documents. Fu
 ## Use case ##
 
 ## Secondary effects ##
+
+Reduce leaking of personal information. Create distributed services. Create applications without having to invest heavily on user storage.

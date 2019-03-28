@@ -27,3 +27,5 @@ Metadata are often invisible to users, yet these are automatically attached to t
 ## Use case ##
 
 ## Secondary effects ##
+
+Avoid leaking of personal information. Protect sensible users and vulnerable group by don't storing potentially user identifying data.

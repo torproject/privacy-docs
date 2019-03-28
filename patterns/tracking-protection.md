@@ -27,8 +27,4 @@ There are also some more advanced fingerprinting techniques trying to capture us
 
 ## Secondary effects ##
 
-websites load faster
-
-reduce memory leaks
-
-reduce battery consumption
+Websites load faster. Reduce memory leaks. Reduce battery consumption of mobile devices.

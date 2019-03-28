@@ -21,4 +21,4 @@ Some amount of data processing and storing can be instead transferred to the use
 
 ## Secondary effects ##
 
-Reduce leaking personal information in case of a breach
+Reduce leaking personal information in case of a breach.
